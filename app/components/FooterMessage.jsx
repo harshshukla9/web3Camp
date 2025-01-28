@@ -8,7 +8,7 @@ const FooterMessage = () => {
         <p className="text-lg font-medium"></p>
       </div>
       <p className="mt-2 text-base font-medium underline decoration-wavy decoration-indigo-500">
-        Crafted by Harsh Shula
+        Crafted by Harsh Shukla
       </p>
     </div>
   );
